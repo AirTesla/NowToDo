@@ -38,3 +38,4 @@ driver.find_element_by_id('su').click()
 sleep(2)
 # 在打开的页面中找到“Selenium - 开源中国社区”，并打开这个页面
 driver.find_elements_by_link_text('Selenium - 开源中国社区')[0].click()
+sleep(4)
